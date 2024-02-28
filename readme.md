@@ -23,3 +23,12 @@ npm run start
 # or
 yarn start
 ```
+
+#### Get data top 5 Fav Menu
+[http://localhost:3333/api/v1/top5](http://localhost:3333/api/v1/top5)
+
+#### Get All Invoice Transaction 
+[http://localhost:3333/api/v1/invoice-detail/](http://localhost:3333/api/v1/invoice-detail/)
+
+#### Get Invoice Transaction By ID (http://localhost:3333/api/v1/invoice-detail/:id)
+[http://localhost:3333/api/v1/invoice-detail/1](http://localhost:3333/api/v1/invoice-detail/1)
